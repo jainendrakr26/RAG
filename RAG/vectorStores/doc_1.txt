@@ -1,7 +1,0 @@
-
-    Machine Learning Fundamentals
-
-    Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from and 
-    make decisions based on data. It involves various algorithms and statistical models that enable computers to 
-    perform specific tasks without explicit instructions.
-    
